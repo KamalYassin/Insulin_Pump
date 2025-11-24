@@ -2,13 +2,13 @@
 A simulation for the Tandem t:slim X2 insulin pump using Qt/C++.
 
 ## Contributors
+Kamal Yassin 
+
 Hamzah Hamad 
 
 Thu Thu Chit Pyae 
 
 Justin Schoenhofer 
-
-Kamal Yassin 
 
 Aidan Casselman
 
