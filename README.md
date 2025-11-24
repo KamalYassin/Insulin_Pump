@@ -1,16 +1,16 @@
 # Insulin-Pump-Simulator
 A simulation for the Tandem t:slim X2 insulin pump using Qt/C++.
 
-## Group Members
-Hamzah Hamad #101230812 
+## Contributors
+Hamzah Hamad 
 
-Thu Thu Chit Pyae #101229440
+Thu Thu Chit Pyae 
 
-Justin Schoenhofer #101186399
+Justin Schoenhofer 
 
-Kamal Yassin #101265070
+Kamal Yassin 
 
-Aidan Casselman #101277801
+Aidan Casselman
 
 ## Responsibilities
 1. Project Planning
@@ -19,20 +19,20 @@ Aidan Casselman #101277801
 - Create GitHub repository (Hamzah)
 
 2. Design
-- Use cases (Thu Thu)
-- Use Case Diagram (Thu Thu)
-- UML class diagram (Kamal) 
-- UML state machine diagram (Hamzah) 
-- UML sequence diagram (Justin) 
-- Requirements Traceability Matrix & Test Video (Aidan) 
-- An explanation of our design decisions (Thu Thu)
+- Use cases 
+- Use Case Diagram 
+- UML class diagram 
+- UML state machine diagram 
+- UML sequence diagram 
+- Requirements Traceability Matrix & Test Video 
+- An explanation of our design decisions
 
 3. Development
-- User Interface class, home.ui screen, CGM-charts, button interactions (options, bolus, history), login (pin), screen layout policies (Kamal)
-- Settings (CRUD) and PumpController (Thu Thu)
-- Basic device functions and control flow (Justin)
-- Data storage, logging, history, profile management, and documentation (Aidan)
-- Bolus calculator and manual bolus operation (.cpp, .h, .ui), ControlIQ (.cpp, .h) (Hamzah)
+- User Interface class, home.ui screen, CGM-charts, button interactions (options, bolus, history), login (pin), screen layout policies 
+- Settings (CRUD) and PumpController 
+- Basic device functions and control flow
+- Data storage, logging, history, profile management, and documentation 
+- Bolus calculator and manual bolus operation (.cpp, .h, .ui), ControlIQ (.cpp, .h) 
 
 ## File Organization
 
