@@ -1,4 +1,6 @@
 <img width="554" height="334" alt="insulin_pump" src="https://github.com/user-attachments/assets/519f03c6-9471-48b6-a1f3-40b804dae75d" />
+
+
 # Insulin-Pump-Simulator
 
 A simulation for the Tandem t:slim X2 insulin pump using Qt/C++.
