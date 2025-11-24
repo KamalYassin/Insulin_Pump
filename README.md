@@ -14,9 +14,9 @@ Aidan Casselman
 
 ## Responsibilities
 1. Project Planning
-- Outline team responsibilities, schedule and timeline (Shared responsibility)
-- Plan the design (Shared responsibility)
-- Create GitHub repository (Hamzah)
+- Outline team responsibilities, schedule and timeline 
+- Plan the design 
+- Create GitHub repository 
 
 2. Design
 - Use cases 
